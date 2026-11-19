@@ -69,3 +69,6 @@ Gerar um extrato financeiro simples com a soma e a média dos valores gastos em 
 1. Abra o seu cliente SQL (por exemplo, MySQL Workbench).
 2. Crie e popule o banco de dados do hospital.
 3. Execute o arquivo `consultas.sql`, ou cada consulta individualmente.
+
+
+![diagrama](DGHospital.png)
